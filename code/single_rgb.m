@@ -33,6 +33,9 @@ for i = 1:row
         end
     end
 end
+
+
+
 subplot(1,2,1);
 imshow(img);
 subplot(1,2,2);
